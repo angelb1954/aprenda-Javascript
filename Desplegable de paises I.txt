@@ -1,0 +1,22 @@
+1-Comience creando una variable de cadena para almacenar el HTML
+2-Asígnelo a <option value="">Seleccione</option>
+3-Necesitas iterar sobre los países.
+4-Entonces obtendrás un país
+5-console.log(país) para visualizarlo
+6-Agregue a esa cadena HTML el HTML para esa opción
+7-El valor debe ser el país en minúsculas
+8-Devuelve la cadena HTML
+
+
+
+Tabla nutricional II
+
+1-Necesitas iterar sobre las filas
+2-Entonces obtendrás una fila
+3-console.log(row) para visualizarlo
+4-¿Cómo se obtiene la etiqueta? ¿Cómo obtienes el valor?
+5-row[0] and row[1]
+6-Copie el código HTML dado y colóquelo en una cadena de plantilla
+7-Use la interpolación para reemplazar la etiqueta aquí por el parámetro de la etiqueta
+8-Haga lo mismo por valor aquí y valor
+9-Return the html string
